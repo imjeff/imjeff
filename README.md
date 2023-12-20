@@ -1,8 +1,8 @@
 ### Hi 👋
 
-借 Github 分享几个极简的博客主题。
+借 Github 分享几个极简的博客主题。关于主题的建议和交流、以及了解更多分享内容可以到我的个人博客。
 
-了解更多分享内容可以到我的个人博客 <b><a href="https://yayu.net/">雅余 YAYU.NET</a></b>
+个人博客：<b><a href="https://yayu.net/">雅余 YAYU.NET</a></b>
 
 <!--
 **imjeff/imjeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
