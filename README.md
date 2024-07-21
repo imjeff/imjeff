@@ -1,8 +1,8 @@
-### Hi 👋
+## Hi 👋
 
-借 Github 分享几款 WordPress 和 Typecho 的极简博客主题。非专业，多包涵。主题的交流反馈、更多的内容分享可以到我的个人博客。
+借 Github 分享几款 WordPress 和 Typecho 的极简博客主题。非专业，多包涵。关于主题的交流反馈、更多的内容分享可以到我的个人博客。
 
-个人博客：<b><a href="https://yayu.net/">雅余 YAYU.NET</a></b>
+个人博客：**<a href="https://yayu.net/">雅余 YAYU.NET</a>**
 
 <!--
 **imjeff/imjeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
